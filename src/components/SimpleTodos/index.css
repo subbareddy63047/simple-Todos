@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.main-container {
+  background-color: #ffc2a0;
+  border-color: #ff8542;
+  padding: 20%;
+}
+.card-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'roboto';
+  font-size: 35px;
+  font-weight: bold;
+}
+.container-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
